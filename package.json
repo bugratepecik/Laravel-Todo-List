@@ -55,7 +55,7 @@
     "postcss": "^8.4.27",
     "proxy-from-env": "^1.1.0",
     "readdirp": "^3.6.0",
-    "rollup": "^3.26.3",
+    "rollup": "^3.29.5",
     "source-map-js": "^1.0.2",
     "sweetalert2": "^11.7.20",
     "to-regex-range": "^5.0.1",
